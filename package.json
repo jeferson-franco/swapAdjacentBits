@@ -1,0 +1,20 @@
+{
+  "name": "swapadjacentbits",
+  "version": "1.0.0",
+  "description": "***Implement the missing code, denoted by ellipses. You may not modify the pre-existing code.***",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/swapAdjacentBits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/swapAdjacentBits/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/swapAdjacentBits#readme"
+}
